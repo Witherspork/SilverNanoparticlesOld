@@ -1,1 +1,133 @@
+@font-face {
+  font-family: GothBook;
+  src: url(https://static1.squarespace.com/static/5ebba4a0895bb03279cf221b/t/5ec1707a9974cb409f0243b3/1589735546398/Gotham+Book.otf)
+}
 
+.background {
+  background-color: #A7A8AC
+}
+
+#faq {
+  margin-top: 20px;
+  margin-right: 0px
+}
+.accordion-item {
+  padding: 0px 30px;
+}
+.accordion-section h2 {
+  font-size: 25px;
+  color: #F05A28;
+  margin-bottom: 14px;
+  text-transform: capitalize;
+  margin-top: 0;
+  letter-spacing: 0;
+}
+section h2 {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  font-family: GothBook;
+}
+.panel-group {
+  margin-bottom: 0;
+}
+.accordion-section .panel-heading {
+  background-color: #F05A28;
+  color: #A7A8AC;
+  padding: 8px 0px 10px;
+  margin-right: 2px;
+  margin-left: 2px;
+  margin-top: 2px;
+}
+.accordion-section h4.panel-title {
+  padding: 0 10px;
+  margin-bottom: 5px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+#faq .collapsed {
+  display: table;
+  line-height: 22px;
+}
+#faq .faq-toggle {
+  float: left;
+}
+section.faq .fa:before {
+  font-size: 20px;
+  padding-right: 8px;
+}
+.panel-group .panel-heading+.panel-collapse>.list-group, .pricing-plans-wrapper .panel-group .panel-heading+.panel-collapse>.panel-body {
+  border-top: none;
+}
+section.faq .panel-body p {
+  text-align: left;
+  font-size: 16px;
+}
+p, 
+.ul li {
+  color: #A7A8AC;
+}
+ol, 
+ul {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.panel-body {
+ 	background-color: #545456;
+    color: #A7A8AC;
+}
+
+.panel {
+  background-color: #A78A8C;
+}
+
+.thanks {
+  text-align: center;
+  font-family: GothBook
+}
+
+.dark h1 {
+  font-family: GothBook;
+  font-variant: normal;
+}
+
+
+.sqsrte-large {
+  font-family: GothBook;
+  font-style: oblique;
+}
+
+.site-wrapper {
+  font-family: GothBook;
+}
+
+.image-button-inner {
+  font-family: GothBook;
+}
+
+.sqs-block-form .field-list .title {
+  font-family: GothBook;
+}
+
+.form-wrapper .form-button-wrapper--align-center {
+  font-family: GothBook;
+}
+
+.Header-nav--primary .Header-nav-item {
+  font-family: GothBook;
+}
+
+.yikes {
+  color: #A7A8AC
+}
+
+.Header-nav--secondary .Header-nav-item {
+  font-family:GothBook
+}
